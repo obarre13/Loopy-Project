@@ -1,0 +1,6 @@
+c:\users\mohamed\documents\visual studio 2015\Projects\Loopy Project\Loopy Project\bin\Debug\Loopy Project.exe.config
+c:\users\mohamed\documents\visual studio 2015\Projects\Loopy Project\Loopy Project\bin\Debug\Loopy Project.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\Loopy Project\Loopy Project\bin\Debug\Loopy Project.pdb
+c:\users\mohamed\documents\visual studio 2015\Projects\Loopy Project\Loopy Project\obj\Debug\Loopy Project.csprojResolveAssemblyReference.cache
+c:\users\mohamed\documents\visual studio 2015\Projects\Loopy Project\Loopy Project\obj\Debug\Loopy Project.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\Loopy Project\Loopy Project\obj\Debug\Loopy Project.pdb
